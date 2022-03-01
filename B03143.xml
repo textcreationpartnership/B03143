@@ -1,0 +1,767 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reward of the wicked, preached in a sermon at Linfield in Sussex, and published at the request of some well disposed Christians. / By Humphrey Everenden.</title>
+            <author>Everinden, Humphrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03143</idno>
+            <idno type="STC">Wing E3545A</idno>
+            <idno type="STC">ESTC R176798</idno>
+            <idno type="EEBO-CITATION">47012432</idno>
+            <idno type="OCLC">ocm 47012432</idno>
+            <idno type="VID">174401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174401)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2687:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reward of the wicked, preached in a sermon at Linfield in Sussex, and published at the request of some well disposed Christians. / By Humphrey Everenden.</title>
+                  <author>Everinden, Humphrey.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The ninth edition.</edition>
+               </editionStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Sanders ...,</publisher>
+                  <pubPlace>Glasgow, :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXV, 46 --  Sermons.</term>
+               <term>Punishment --  Religious aspects --  Christianity --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174401:1"/>
+            <p>
+               <hi>THE REWARD Of the WICKED, reached in a Sermon at</hi> Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>field <hi>in</hi> Suſſex, <hi>and publiſhed at the requeſt of ſome well diſpoſed Chriſtians.</hi>
+            </p>
+            <p>By HUMPHREY EVERENDEN.</p>
+            <p>The ninth Edition.</p>
+            <q>
+               <bibl>Eccleſ. 11. 11.</bibl>
+               <p>Rejoice, O young man in thy youth, and let thine heart-cheer thee in the dayes of thy youth, and walk in the ſight of thine eyes: but know that for all theſe things, God will bring thee to Judgement.</p>
+            </q>
+            <p>GLASGOW, <hi>Printed by</hi> Robert Sanders, <hi>One of His Majeſties Printers,</hi> 1696.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174401:2"/>
+            <head>TO THE Chriſtian READER</head>
+            <p>THe means of Edification in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Holy Scripture (gentle Reader may all be referred to three heads Inſtructions for all. Conſolations fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the oppreſſed. Threats for thoſe tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> erre, and are obſtinate. Theſe make threefold cord, whereby God laboure to draw mankind to this end. Her<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haſt thou one ſtrain twiſted, <hi>viz.</hi> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judgement or death of the damned. <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> therefore Gods mercies cannot allu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee to love him, here haſt thou hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judgements to ſcourge thee that tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mayeſt fear him, that beginning th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wiſdom in fear, thou mayeſt ſo lear<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to love him, that his judgements bein<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bitter to thy taſte, may cauſe thee ſeek to try how good he is in his me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cies. God give his bleſſing to his ow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ordinance for thy good.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:174401:2"/>
+            <head>THE REWARD Of the WICKED, SERMON Preached at <hi>Li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>field in Suſſex.</hi>
+            </head>
+            <epigraph>
+               <bibl>Matth. 25. 46.</bibl>
+               <q>And theſe ſhall go into everlaſting pain.</q>
+            </epigraph>
+            <p>THe recompence of the Righteous, and the reward of the wicked, deſcribed in this verſe, are both declared to be everlaſting<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he one imbracing the other deſpiſing an eterna<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty. Theſe that ſhall go into everlaſting pain, are the mercileſs, the cruel and hard hearted <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd with them all that go not into life eternal, <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe that ſhall not inherit the Kingdom of God.</hi>
+            </p>
+            <p>Our Saviour Chriſt deſcribing the puniſhmen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the damned, in the pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able of the Tares <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heweth that by his Angels they ſhall be boun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up into bundles to be burned: teaching that the
+<pb facs="tcp:174401:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174401:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:174401:4"/> that participate in ſin ſhall be partakers <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> puniſhment: and further that their Judgeme<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſhall be irrevocable, their miſery remedileſs, the<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eſtate helpleſs, for whom God bindeth, who c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be able to looſe?</p>
+            <p>Curious diviſion of the words I purpoſely om<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> obſerving the general inſtruction which araiſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the words, without wreſting of them, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> digreſſing from the true meaning of them.</p>
+            <p>The ungodly ſhall aſſuredly receive the puniſh<g ref="char:EOLunhyphen"/>ment of eternal damnation at the day of Judge<g ref="char:EOLunhyphen"/>ment.</p>
+            <p>This doctrine is further confirmed by ſundr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> places of Scripture.</p>
+            <p>In <hi>Matthew</hi> 13 is taught, that the Angels ſha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gather together the tares that is the children <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the wicked, <hi>and bind them into bundles to bu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them.</hi>
+            </p>
+            <p>In the 20 of the <hi>Revelation</hi> is ſhewed th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>death</hi> and <hi>hell,</hi> that is the heirs of <hi>death</hi> and <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were caſt into the lake of fire, which is the ſecon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death.</hi>
+            </p>
+            <p>In the 21 of the <hi>Revelation</hi> is threatned, th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>the fearful and unbelieving, and abominable, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> murther<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs and whoremongers, and ſorcerers, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> idolaters, and all liars ſhall have their part in the la<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which burneth with fire and brimſtone, which is t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſecond death.</hi>
+            </p>
+            <p>
+               <hi>Tribulation and anguiſh</hi> (ſaith Saint <hi>Paul) ſh<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi>
+               <pb n="5" facs="tcp:174401:4"/> 
+               <hi>upon the ſoul of every one that doth evil, of the Jew <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and alſo of the Grecian.</hi>
+            </p>
+            <p>And in his Epiſtle to the <hi>Theſſalonians</hi> that <hi>Jeſus <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſt ſhall ſhew himſelf from Heaven, with his mighty <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngels in flaming fire, rendring vengeance to them <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t do not know God and which obey not the Goſpel <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>Becauſe the Juſtice of God doth exact and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>erre, that as every man doth ſow, ſo he ſhall <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>p, and therefore he that ſoweth to the fleſh of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fleſh ſhall reap corruption, as on the other <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e, he that ſoweth to the ſpirit, doth of the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>it reap eternal life.</p>
+            <p>How doth it ſtand with Gods Juſtice to puniſh <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emporal offence with an eternal puniſhment? The wicked are juſtly puniſhed for theſe cauſes. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cauſe their ſins are an offence of an eternal <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ajeſty. 2. Becauſe they neglect an eternal <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od propounded, and ſet before them, which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obedience they may obtain; and ſo chooſe <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rnal miſery through walking in diſobedience.</p>
+            <p>Becauſe if they did live eternally, they would <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſin eternally. 4. Becauſe the damned do <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eternally, their tranſgreſſions is coeternal with <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir puniſhment; as therefore they ſhall ever <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>main in torment<g ref="char:punc">▪</g> ſo ſhall they for ever remain <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unbelief impenitency blaſphemy: ſo that their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>niſhment is not larger then their ſins deſerving</p>
+            <pb n="6" facs="tcp:174401:5"/>
+            <p> For the opening of this Doctrine, two thi<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> are to be conſidered<g ref="char:punc">▪</g> Firſt, wherein the damnat<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the wicked conſiſteth Secondly, How their puniſhment extendeth. For the firſt, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> damnation of the wicked ſtandeth in a twof<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> punſhment, called <hi>poena damni, &amp; poena ſen<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> puniſhment of loſs, and the puniſhment of ſen<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+            </p>
+            <p>The puniſhment of loſs, is a ſeparation fr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the preſence of God, and from all joyes, pleaſures attending the ſame. This is that wh<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Apoſtle teacheth, that they ſhall be puniſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with everlaſting perdition from the preſence the Lord and from the glory of his power. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> how great a miſery this is, may appear, in t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> they are ſeparated from Gods preſence, are ſepe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted from all joy and pleaſure, between which<g ref="char:punc">▪</g> extream ſorrow, and miſery there is no mean; in Gods preſence (and not elſe where) is fuln<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of joy, and at his right hand (and no where to be found) are pleaſures for evermore: <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for this cauſe our Saviour Chriſt accounteth it greateſt happineſs of the pure in heart that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhal ſee God: And <hi>Cain</hi> accounteth it not the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> judgement that ſhould befall him here on e<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> that he ſhould be hid from the face of God. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were ſo grievous to <hi>Cain</hi> to be ſeparated from place of Gods Worſhip here on earth, which is a type of the ſeparation in the life to come: how grievous then muſt it needs be to the dam<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="7" facs="tcp:174401:5"/> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e life to come to be indeed excluded from the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>y of God, and happineſs of the glorified? <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he puniſhment of ſenſe is the inflicting of tor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nts, and miſeries, both on ſoul and body; for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be the miſery of the damned, that they <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ll not reſt without joy, and ſorrow but as they <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be deprived of al happineſs, ſo ſhal they be op<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſſed with all unhappineſs as they ſhal be debar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of all delight and pleaſure ſo they ſhall be filled <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h all unſpeakble torments, by many th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs are <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ir torments expreſſed in the holy Scripture, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſt terrible, and moſt painful.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Saviour Chriſt ſaith, <hi>Their worm never dyeth <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their fire never goeth out,</hi> and again <hi>Caſt that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rofitable ſervant into utter darkneſs, there ſhall be <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ping, and gnaſhing of teeth, Matth.</hi> 25 30. with <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>y the like paraphraſes and denominations ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſſing the like. Now if nothing can be more <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rible then utter darkneſs, being that plague of <hi>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pt,</hi> which next to the death of the firſt born <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt of all moved <hi>Pharaohs</hi> hard heart: if nothing <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>re painful inwardly, then the gnawing of the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rt with the teeth of the ſerpent; if nothing <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wardly then the heat and burning of fire; yea, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>othing more intollerable then the continuance, theſe torments without ceaſing or intermiſſion <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>n ſurely by theſe deſcriptions the Lord would <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve us know that the puniſhment of the damned moſt intollerable and ſo great as the fury of Gods
+<pb n="8" facs="tcp:174401:6"/> wrath againſt ſin can kindle, and the rage of S<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> can inflict.</p>
+            <p>Now the reaſons that the damned do ſu<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> not only the puniſhment of loſs, but of ſenſe, is, that they do not only loſe the benefit of <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fort, but are alſo tormented, are theſe: Firſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the puniſhment, of loſs. Becauſe they neg<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and deſpiſe the true good grace and glory off<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> unto them yea, and GOD himſelf, the founta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all good, and therefore it is equal, and juſt their puniſhment extend to this that they be ſ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rated from GOD and his Glory from all good <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> happineſs. For GOD will forſake them <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forſake him.</p>
+            <p>Secondly, of the puniſhment of ſenſe, bec<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> they have choſen to follow that which is evil, forbidden unto them, therefore it is juſt tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reward of their own hands be given unto t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> yea, it is equal <hi>Prov.</hi> 5. <hi>that his <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn iniquitie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the wicked himſelf, and that be holden with the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of his own ſin.</hi>
+            </p>
+            <p>As for the ſecond conſideration, How fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> puniſhment of the wcked doth extend, it is evi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> that it extendeth.</p>
+            <p>Firſt, to every one, without reſpect or differ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of perſons or properties, to old, young, poor, weak, and mighty, noble and ign<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> wiſe and fooliſh, <hi>Tribulation and anguiſh ſhall b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſoul of every one that doeth evil, Rom.</hi> 2. 6. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:174401:6"/> 
+               <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>het is prepared of old; it is even prepared for the <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g he hath made it deep, and large, Iſaiah</hi> 30. 33. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ondly, to every part of the damned both to ſoul <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> body; yea, to every part of either of them ſo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſo much as <hi>Dives</hi> tongue can be free from <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heat of this torment, <hi>Luke</hi> 16. 24. Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdly <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the uttermoſt extremity, for it ſhall be the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>reameſt torment that may be the breath of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds fury kindling it <hi>Iſa</hi> 30. 33 and being without <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pittying or commiſeration: <hi>For there ſhall be <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ement m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcileſs to him that ſheweth no mercy, Jam.</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 3. Fourthly, to be without ceaſing, or inter<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>lion, ſo that it ſhall be reſtleſs without ſo much <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he refreſhing of a drop of water, which were <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>al thing in ſuch a fire, to cool any part of the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mented; and therefore our Saviour Chriſt ſaith <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he place before nam'd <hi>that their worm never <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>h, and their fire never goeth out:</hi> the worm biteth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong as he liveth and the fire tormenteth ſo long <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t burneth. Fifthly, to eternity, for it ſhall be <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rlaſting without end, and therefore it is not <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y called fire, to expreſs the greatneſs of it, but <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rlaſting fire, to expreſs the continuance of it. <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tth.</hi> 25. 41. Which cauſeth me to remember <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at one ſaith in his meditations: If the damned <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re to continue in their torments but a thouſand <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uſand years, yet had they ſome hope, if but ſo <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ny years as there are ſtars in the sky, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſands on ſea, graſs on the ground, and duſt on the face
+<pb n="10" facs="tcp:174401:7"/> of the earth in the greateſt drought, yet ſh<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there be an end; nay, if but ſo many tho<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thouſand years as are ſtars in the sky, ſand on <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſea, graſs on the ground, and duſt on the fa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the earth yet ſhould there be one day an en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their torments, but their miſery is far other<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> for ſo many thouſand years being ended, ſo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thouſands of thouſands are again to begin, w<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> alſo ever ſhall begin, and never ſhall have en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Now if it be demanded by the way, whe<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> there ſhall be in hell material fire to the torme<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the damned.</p>
+            <p>I Anſwer, it is no point of faith, or ma<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neceſſary to ſalvation to know yet freely to de<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> my opinion without diſparagement to the opi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of the contrary minded, I ſee no reaſon to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contrary: for inaſmuch as the body ſinneth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſoul it is juſt that it be puniſhed with the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Now inſomuch as the Scripture hath expreſſed torment of fire, I think it curioſity to expo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that by a figure, and to be fain to ſearch out a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther figurative ſpeech, to find a matter to torm<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the body, fire being apt to torment and being <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> greateſt of all torments, neither is it material <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be ſaid that then there muſt by that reaſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a material worm to gnaw, as well as fire to bu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for fire can torment the body, but a worm can torment the ſoul, and therefore that which can <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ally be underſtood to be done muſt be fig<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tively
+<pb n="11" facs="tcp:174401:7"/> expounded, which expoſition that may be <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ne, ſo underſtood need not but literaturely to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e expounded.</p>
+            <p>This doctrine may be a powerful motive to all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>andring ſinners that go aſtray after the corrupti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of their own hearts in the deſert paths of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſobedience, to return unto their GOD by true <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pentance, leaſt they die the death for their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſobedience: If the poor ſheep in the wilderneſs <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d but know, that if they continue ſtragling from <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir folk, they would aſſuredly be devoured of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Wolfe, they would ſurely (although wanting <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſon) by the very conduct of ſenſe, make haſte <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the cuſtody of their ſhepherd: This then being <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt certain, that all that go aſtray from the wayes <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> GOD, and ſo continue wandering either till <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e day of their viſitation be paſt, or till death <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke away the time and place of repentance, ſhall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> devoured of hell and deſtruction: Oh, how <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould this move us ſpeedily to return to the fold <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> CHRIST to waſh away our ſins with the tears <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> repentance, to redeem the time, and to be <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rned, that they come not into this damnation? <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce may all obſtinate and impenitent ſinners to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir terror, ſee the aſſured end of all their wicked <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſes by the eternal damnation both of body <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſoul. What then ſhal become of all Idolaters, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dulterers, Drunkards, Swearers, breakers of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds Sabbaths, Covetous, Earth-Worms, Uſerers,
+<pb n="12" facs="tcp:174401:8"/> Oppreſſors, and ſuch like, that live and die in t<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſins? ſurely they ſhall be bound up in bundle<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be burned, they ſhall go into everlaſting p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Malefactors on earth have ſome hope after ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tence to eſcape their temporal puniſhment<g ref="char:punc">▪</g> men are drawn by many means to revoke t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> ſentences, and to grant their gracious pardo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> But in this judgement the damned have to do <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> GOD, who is feared by no mans greatneſs alte<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> by no reward, with whom is no changing <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhadow of turning, and therefore his ſentenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unrecoverable: neither after this life is there <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> time, place or liberty of repentance: but as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tree falls ſo it lyes, either to life or deſtruct<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174401:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
